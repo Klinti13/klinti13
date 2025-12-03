@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Klinti13/klinti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,3 +22,13 @@ I'm a young Front-End Developer passionate about building interactive web projec
 - HTML, CSS, JavaScript
 - React (learning)
 - Git & GitHub
+
+## 🎯 Projects
+- **Blackjack Game** – Interactive card game with betting system
+- **Chrome Extension – Save Links** – Save and manage your favorite links
+- **Static Website** – Responsive and fast static website
+
+## 📫 Contact
+- Email: klinti.bodurri@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/klinti-bodurri-472a9228a)
+
