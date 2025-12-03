@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Klinti 👋
+
+I'm a young Front-End Developer passionate about building interactive web projects.  
+
+## 🚀 Skills & Technologies
+- HTML, CSS, JavaScript
+- React (learning)
+- Git & GitHub
