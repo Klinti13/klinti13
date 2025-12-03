@@ -22,6 +22,9 @@ I'm a young Front-End Developer passionate about building interactive web projec
 - HTML, CSS, JavaScript
 - React (learning)
 - Git & GitHub
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## 🎯 Projects
 - **Blackjack Game** – Interactive card game with betting system
