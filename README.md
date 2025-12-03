@@ -22,14 +22,16 @@ I'm a young Front-End Developer passionate about building interactive web projec
 - HTML, CSS, JavaScript
 - React (learning)
 - Git & GitHub
-![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## 🎯 Projects
 - **Blackjack Game** – Interactive card game with betting system
+- https://klinti13.github.io/blackjack-game/
+- 
 - **Chrome Extension – Save Links** – Save and manage your favorite links
+- https://klinti13.github.io/chrome-extension/
+- 
 - **Static Website** – Responsive and fast static website
+- https://github.com/Klinti13/static-website/deployments/github-pages
 
 ## 📫 Contact
 - Email: klinti.bodurri@gmail.com
