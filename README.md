@@ -28,7 +28,6 @@ I'm a young Front-End Developer passionate about building interactive web projec
 - **Chrome Extension – Save Links** – Save and manage your favorite links
 - **Static Website** – Responsive and fast static website
 
-## 📫 Contact
-- Email: klinti.bodurri@gmail.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/klinti-bodurri-472a9228a)
+
+
 
