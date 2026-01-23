@@ -16,17 +16,19 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Klinti 👋
 
-I'm a young Front-End Developer passionate about building interactive web projects.  
+I'm a Software Developer passionate about building interactive projects.  
 
 ## 🚀 Skills & Technologies
 - HTML, CSS, JavaScript
-- React (learning)
+- React 
+- NodeJs
 - Git & GitHub
 
 ## 🎯 Projects
-- **Blackjack Game** – Interactive card game with betting system
+- **Tenzies** – Interactive game 
 - **Chrome Extension – Save Links** – Save and manage your favorite links
 - **Static Website** – Responsive and fast static website
+- **Portfolio** – Responsive and fast website
 
 
 
