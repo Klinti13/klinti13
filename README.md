@@ -1,35 +1,46 @@
+# Hi, I'm Klinti! 👋
 
+> _"Code is like humor. When you have to explain it, it’s bad."_
 
-<!--
-**Klinti13/klinti13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineer** and **Software Developer** passionate about building interactive projects and modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Klinti 👋
+### ⚡ Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-I'm a Software Developer passionate about building interactive projects.  
+---
 
-## 🚀 Skills & Technologies
-- HTML, CSS, JavaScript
-- React 
-- NodeJs
-- Git & GitHub
+### 📚 Featured Projects
 
-## 🎯 Projects
-- **Tenzies** – Interactive game 
-- **Chrome Extension – Save Links** – Save and manage your favorite links
-- **Static Website** – Responsive and fast static website
-- **Portfolio** – Responsive and fast website
+#### 🎮 Games & Interactive
+* **🔥 Guess the Word**
+    * *A modern word-guessing game built with React & Vite, where you guess the words.*
+* **🃏 Mini BlackJack Game**
+    * *A classic card game logic implementation to challenge the dealer.*
+* **🎲 Tenzies Game**
+    * *Fast-paced interactive game built to master React hooks.*
 
+#### ⚛️ React & Tools
+* **🚀 Chrome Extension (Save Links)**
+    * *A productivity tool to save and organize browser tabs instantly.*
+* **⚛️ First React Project**
+    * *A foundational app demonstrating React components, props, and list rendering.*
 
+#### 🌐 Web Development
+* **💻 Personal Portfolio**
+    * *Responsive and fast website showcasing my work and skills.*
+* **⚡ Static Website**
+    * *High-performance landing page with modern CSS architecture.*
+
+---
+### 📫 Connect with me
+[[LinkedIn Profile](https://www.linkedin.com/in/klinti-bodurri-472a9228a/)] • [[Email Address](klinti.bodurri@gmail.com)]
 
 
