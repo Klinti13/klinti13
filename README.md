@@ -39,8 +39,5 @@ I am a **Computer Engineer** and **Software Developer** passionate about buildin
 * **⚡ Static Website**
     * *High-performance landing page with modern CSS architecture.*
 
----
-### 📫 Connect with me
-[[LinkedIn Profile](https://www.linkedin.com/in/klinti-bodurri-472a9228a/)] • [[Email Address](klinti.bodurri@gmail.com)]
 
 
