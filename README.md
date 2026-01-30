@@ -20,6 +20,8 @@ I am a **Computer Engineer** and **Software Developer** passionate about buildin
 ### 📚 Featured Projects
 
 #### 🎮 Games & Interactive
+* **🧠 Quizzical**
+* *A dynamic trivia app fetching real-time questions from the Open Trivia API with score tracking and responsive UI.*
 * **🔥 Guess the Word**
     * *A modern word-guessing game built with React & Vite, where you guess the words.*
 * **🃏 Mini BlackJack Game**
