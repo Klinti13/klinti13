@@ -45,13 +45,6 @@ I am a **Computer Engineering graduate** dedicated to building high-performance 
 
 ---
 
-### 📈 GitHub Stats
-
-[![Klinti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klinti13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Klinti13)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klinti13&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Klinti13)
----
-
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/klinti-bodurri-472a9228a)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:klinti.bodurri@gmail.com)
