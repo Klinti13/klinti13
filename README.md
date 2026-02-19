@@ -46,11 +46,10 @@ I am a **Computer Engineering graduate** dedicated to building high-performance 
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Klinti13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats logo"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinti13&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages logo"  />
-</p>
 
+[![Klinti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klinti13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Klinti13)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klinti13&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Klinti13)
 ---
 
 ### 📫 Connect with me
