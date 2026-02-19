@@ -1,44 +1,62 @@
 # Hi, I'm Klinti! 👋
+### Computer Engineer | Full-Stack Developer 🚀
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+> _"Simplicity is the ultimate sophistication."_ — A motto I follow while architecting clean and scalable software.
 
-I am a **Computer Engineer** and **Software Developer** passionate about building interactive projects and modern web applications.
+I am a **Computer Engineering graduate** dedicated to building high-performance web applications. My focus lies in creating seamless user experiences through modern technologies and robust engineering principles.
 
 ---
 
-### ⚡ Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
 
-### 📚 Featured Projects
+### 🌟 Featured Project (Flagship)
 
-#### 🎮 Games & Interactive
-* **🧠 Quizzical**
-* *A dynamic trivia app fetching real-time questions from the Open Trivia API with score tracking and responsive UI.*
-* **🔥 Guess the Word**
-    * *A modern word-guessing game built with React & Vite, where you guess the words.*
-* **🃏 Mini BlackJack Game**
-    * *A classic card game logic implementation to challenge the dealer.*
-* **🎲 Tenzies Game**
-    * *Fast-paced interactive game built to master React hooks.*
+#### [🛒 E-Market Ecosystem](https://github.com/Klinti13/E-Market)
+**The most advanced implementation of a modern E-commerce UI.**
+* **Core:** React 19 & TypeScript.
+* **Styling:** Tailwind CSS (Glassmorphism design).
+* **Features:** Dynamic cart management, mobile-first architecture, and high-performance product filtering.
+* _Status: Live & Fully Responsive._
 
-#### ⚛️ React & Tools
-* **🚀 Chrome Extension (Save Links)**
-    * *A productivity tool to save and organize browser tabs instantly.*
-* **⚛️ First React Project**
-    * *A foundational app demonstrating React components, props, and list rendering.*
+---
 
-#### 🌐 Web Development
-* **💻 Personal Portfolio**
-    * *Responsive and fast website showcasing my work and skills.*
-* **⚡ Static Website**
-    * *High-performance landing page with modern CSS architecture.*
+### 📚 Other Projects
 
+#### ⚡ Web & Productivity
+* **🚀 Chrome Extension** – Productivity tool for instant tab organization using LocalStorage.
+* **💻 Personal Portfolio** – A fast, SEO-optimized showcase of my engineering journey.
+* **🌐 Static High-Perf Landing** – Mastery of modern CSS architecture and semantic HTML.
 
+#### 🎮 Interactive Logic & Games
+* **🧠 Quizzical** – Real-time trivia engine fetching data from Open Trivia API.
+* **🔥 Guess the Word** – Complex state management and user input handling in React.
+* **🎲 Tenzies Game** – An interactive dice game focused on mastering React Hooks.
+* **🃏 Mini BlackJack** – Implementation of classic card game logic and dealer AI.
 
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Klinti13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats logo"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klinti13&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages logo"  />
+</p>
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/klinti-bodurri-472a9228a)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:klinti.bodurri@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Klinti13)
+
+<p align="center"><i>"Building the future, one commit at a time."</i></p>
